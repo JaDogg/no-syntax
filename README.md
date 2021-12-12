@@ -1,5 +1,5 @@
 # no-syntax
-🙃 No syntax highlighting, Just Show me comments!
+🙃 No syntax highlighting, Just show me coloured comments!
 
 ![Screenshot](https://github.com/JaDogg/no-syntax/blob/main/screenshot-sample-pycharm.png)
 
