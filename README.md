@@ -1,2 +1,2 @@
 # no-syntax
-🙃 No syntax highlight, Just Show me comments!
+🙃 No syntax highlighting, Just Show me comments!
